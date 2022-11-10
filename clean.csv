@@ -1,0 +1,6 @@
+0  https://dominio/slug/ 301,1 > https://dominio/slug/ 302,2 >> https://dominio/slug/ 200,,,
+0  https://dominio/slug/ 301,1 > https://dominio/slug/ 301,2 >> https://dominio/slug/ 200,,,
+0  https://dominio/slug/ 301,1 > https://dominio/slug/ 301,2 >> https://dominio/slug/ 200,,,
+0  https://dominio/slug/ 301,1 > https://dominio/slug/ 301,2 >> https://dominio/slug/ 404,,,
+0  https://dominio/slug/ 301,1 > https://dominio/slug/ 301,2 >> https://dominio/slug/ 301,3 >>> https://dominio/slug/ 301,4 >>>> https://dominio/slug/ 301,5 >>>>> https://dominio/slug/ 200
+0  https://dominio/slug/ 301,1 > https://dominio/slug/ 301,2 >> https://dominio/slug/ 301,3 >>> https://dominio/slug/ 301,4 >>>> https://dominio/slug/ 200,
